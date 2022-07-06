@@ -1,0 +1,51 @@
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\Images\Sample.png
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\8_Puzzle.exe.config
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\8_Puzzle.exe
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\8_Puzzle.pdb
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\MaterialDesignColors.dll
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.csprojAssemblyReference.cache
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.csproj.ResolveComReference.cache
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\MainWindow.g.cs
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\App.g.cs
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle_Content.g.cs
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle_MarkupCompile.cache
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle_MarkupCompile.lref
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\App.baml
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\MainWindow.baml
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.g.resources
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\_8_Puzzle.Properties.Resources.resources
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.csproj.GenerateResource.cache
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.csproj.CopyComplete
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.exe
+C:\Users\Systemcall\OneDrive - VNU-HCMUS\Source\Windows Programming\Project 2\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.pdb
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\Images\Sample.png
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\8_Puzzle.exe.config
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\8_Puzzle.exe
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\8_Puzzle.pdb
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle_Content.g.cs
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle_MarkupCompile.cache
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle_MarkupCompile.lref
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\App.baml
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.g.resources
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\_8_Puzzle.Properties.Resources.resources
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.csproj.CopyComplete
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.exe
+C:\Users\Admin\Desktop\8_Puzzle-master\8_Puzzle-master\8_Puzzle\obj\Debug\8_Puzzle.pdb
